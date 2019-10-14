@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "asyncjs": "0.0.13",
-        "formidable": "1.0.17",
+        "formidable": "1.2.1",
         "xmldom": "0.1.21",
         "xpath": "0.0.21",
         "moment": "2.11.1"
